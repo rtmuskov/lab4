@@ -1,5 +1,12 @@
 # ninja log v5
-1	111	6940257882839097	build.ninja	8ca895b255b560df
+1	111	6940279275530257	build.ninja	8ca895b255b560df
 1	58	6940254747937548	CMakeFiles/lab4rt.dir/rd.c.obj	9f071497e1c23da4
 2	63	6940256203561432	CMakeFiles/lab4rt.dir/main.c.obj	70fa39a7fe5d5337
 63	134	6940256204231425	lab4rt.exe	4f1a466af5bc89b6
+9	106	6940285550114657	CMakeFiles/lab4rt.dir/lab4_2/sdup.c.obj	e699a6f684c80d73
+12	107	6940285550114657	CMakeFiles/lab4rt.dir/lab4_2/stok.c.obj	96756e888ea63273
+5	108	6940285550114657	CMakeFiles/lab4rt.dir/lab4_2/rd.c.obj	2c1986fdc3985f2e
+18	109	6940285550154670	CMakeFiles/lab4rt.dir/lab4_2/scat.c.obj	cb9d48ad78c2b09d
+15	110	6940285550164643	CMakeFiles/lab4rt.dir/lab4_2/slen.c.obj	24e23d54bfe9e8f3
+0	110	6940285550154670	CMakeFiles/lab4rt.dir/lab4_2/main.c.obj	9dd70ae3f661ad8f
+111	190	6940285550954631	lab4rt.exe	a0fc577079dbdc33

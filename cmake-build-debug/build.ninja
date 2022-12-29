@@ -61,6 +61,30 @@ build CMakeFiles/lab4rt.dir/lab4_2/rd.c.obj: C_COMPILER__lab4rt_Debug C$:/Users/
   OBJECT_DIR = CMakeFiles\lab4rt.dir
   OBJECT_FILE_DIR = CMakeFiles\lab4rt.dir\lab4_2
 
+build CMakeFiles/lab4rt.dir/lab4_2/sdup.c.obj: C_COMPILER__lab4rt_Debug C$:/Users/Konstantin/CLionProjects/lab4rt/lab4_2/sdup.c || cmake_object_order_depends_target_lab4rt
+  DEP_FILE = CMakeFiles\lab4rt.dir\lab4_2\sdup.c.obj.d
+  FLAGS = -g -std=gnu11
+  OBJECT_DIR = CMakeFiles\lab4rt.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab4rt.dir\lab4_2
+
+build CMakeFiles/lab4rt.dir/lab4_2/slen.c.obj: C_COMPILER__lab4rt_Debug C$:/Users/Konstantin/CLionProjects/lab4rt/lab4_2/slen.c || cmake_object_order_depends_target_lab4rt
+  DEP_FILE = CMakeFiles\lab4rt.dir\lab4_2\slen.c.obj.d
+  FLAGS = -g -std=gnu11
+  OBJECT_DIR = CMakeFiles\lab4rt.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab4rt.dir\lab4_2
+
+build CMakeFiles/lab4rt.dir/lab4_2/scat.c.obj: C_COMPILER__lab4rt_Debug C$:/Users/Konstantin/CLionProjects/lab4rt/lab4_2/scat.c || cmake_object_order_depends_target_lab4rt
+  DEP_FILE = CMakeFiles\lab4rt.dir\lab4_2\scat.c.obj.d
+  FLAGS = -g -std=gnu11
+  OBJECT_DIR = CMakeFiles\lab4rt.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab4rt.dir\lab4_2
+
+build CMakeFiles/lab4rt.dir/lab4_2/stok.c.obj: C_COMPILER__lab4rt_Debug C$:/Users/Konstantin/CLionProjects/lab4rt/lab4_2/stok.c || cmake_object_order_depends_target_lab4rt
+  DEP_FILE = CMakeFiles\lab4rt.dir\lab4_2\stok.c.obj.d
+  FLAGS = -g -std=gnu11
+  OBJECT_DIR = CMakeFiles\lab4rt.dir
+  OBJECT_FILE_DIR = CMakeFiles\lab4rt.dir\lab4_2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target lab4rt
@@ -69,7 +93,7 @@ build CMakeFiles/lab4rt.dir/lab4_2/rd.c.obj: C_COMPILER__lab4rt_Debug C$:/Users/
 #############################################
 # Link the executable lab4rt.exe
 
-build lab4rt.exe: C_EXECUTABLE_LINKER__lab4rt_Debug CMakeFiles/lab4rt.dir/lab4_2/main.c.obj CMakeFiles/lab4rt.dir/lab4_2/rd.c.obj
+build lab4rt.exe: C_EXECUTABLE_LINKER__lab4rt_Debug CMakeFiles/lab4rt.dir/lab4_2/main.c.obj CMakeFiles/lab4rt.dir/lab4_2/rd.c.obj CMakeFiles/lab4rt.dir/lab4_2/sdup.c.obj CMakeFiles/lab4rt.dir/lab4_2/slen.c.obj CMakeFiles/lab4rt.dir/lab4_2/scat.c.obj CMakeFiles/lab4rt.dir/lab4_2/stok.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\lab4rt.dir

@@ -8,13 +8,10 @@ char *scat(char *out, char *in) {
     int col_out = slen(out);
     char *res = calloc(col_in + col_out + 1, sizeof(char));
     int i;
-    int k = 1;
     for (i = 0; i < col_out; i++) {
         res[i] = out[i];
     }
-    if (i == 0) {
-        k = 0;
-    }
+
     for (int j = 0; j <= col_in; j++) {
         res[i + j] = temp[j];
     }

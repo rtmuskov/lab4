@@ -18,6 +18,7 @@ int main() {
     char *d_lema;
     int col_dlema;
     int flag = 0;
+    clock_t start = clock();
     while (lema != NULL) {
         for (int j = 0; j < slen(sogl); j++) {
             if (lema[0] == sogl[j]) {
@@ -43,6 +44,9 @@ int main() {
             out = scat(out, " ");
         }
     }
+
+    printf("Initial:\"%s\"\n", str);
+    printf("Result:\"%s\"\n", out);
     if (str != NULL) {
         free(str);
     }
@@ -58,6 +62,6 @@ int main() {
     if (d_lema != NULL) {
         free(d_lema);
     }
-    printf("Initial:\"%s\"\n", str);
-    printf("Result:\"%s\"\n", out);
+    clock_t end = clock();
+    printf("First program worked: %lfs\n", (double)(end - start) / CLOCKS_PER_SEC);
 }

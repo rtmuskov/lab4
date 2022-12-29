@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lab4rt.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\lab4rt.dir/objects.a @CMakeFiles\lab4rt.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\lab4rt.dir/objects.a -Wl,--no-whole-archive -o lab4rt.exe -Wl,--out-implib,liblab4rt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab4rt.dir\linklibs.rsp

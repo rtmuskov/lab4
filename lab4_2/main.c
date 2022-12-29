@@ -43,6 +43,21 @@ int main() {
             out = scat(out, " ");
         }
     }
+    if (str != NULL) {
+        free(str);
+    }
+    if (str2 != NULL) {
+        free(str2);
+    }
+    if (out != NULL) {
+        free(out);
+    }
+    if (lema != NULL) {
+        free(lema);
+    }
+    if (d_lema != NULL) {
+        free(d_lema);
+    }
     printf("Initial:\"%s\"\n", str);
     printf("Result:\"%s\"\n", out);
 }

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Konstantin/CLionProjects/lab4rt/cmake-build-debug",
-		"source" : "C:/Users/Konstantin/CLionProjects/lab4rt"
+		"build" : "C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug",
+		"source" : "C:/Users/rtmus/CLionProjects/lab4rt2"
 	},
 	"version" : 
 	{

@@ -6,9 +6,10 @@
 #include "sdup.h"
 #include "scat.h"
 #include "stok.h"
-#define DELIM " \t"
+#define DELIM ' '
 #define PREFICS 'J'
 int main() {
+    char *sv;
     char sogl[] = {"bBcCdDfFgGhHjJkKlLmMnNpPqQrRsStTvVwWxXyYzZ"};
     char *str = rd("\n>");
     char *str2 = sdup(str);
@@ -44,5 +45,4 @@ int main() {
     }
     printf("Initial:\"%s\"\n", str);
     printf("Result:\"%s\"\n", out);
-    printf("Not Fake valgrind: no leaks detected");
 }

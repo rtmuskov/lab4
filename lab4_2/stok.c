@@ -1,18 +1,27 @@
 #include "stok.h"
 #include "stdlib.h"
 #include "slen.h"
-char *stok(char *str, char *delim) {
-    static char *olds;
-    char *end;
-    if (str == NULL) {
-        str = olds;
+
+char *stok(char *s, char delim) {
+    static char* input = NULL;
+    if (s != NULL)
+        input = s;
+    if (input == NULL)
+        return NULL;
+    char *result = malloc(slen(input) + 1);
+    int i = 0;
+    for(; input [i] != '\0'; i++) {
+        if (input[i] != delim) {
+            result[i] = input[i];
+        }
+        else {
+            result[i] = '\0';
+            input = input + i + 1;
+            return result;
+        }
     }
-    int b = slen(str);
-    str += b;
-    end = str;
-    while(('0' <= end[0])&&(end[0] <= 'z')) end++;
-    end[0] = '\0';
-    olds = end + 1;
-    if (str == end) return NULL;
-    return str;
+    result[i] = '\0';
+    input = NULL;
+
+    return result;
 }

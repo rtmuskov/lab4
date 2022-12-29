@@ -1,0 +1,5 @@
+# ninja log v5
+1	111	6940236997734478	build.ninja	8ca895b255b560df
+2	73	6940236999024472	CMakeFiles/lab4rt.dir/rd.c.obj	9f071497e1c23da4
+0	74	6940236999024472	CMakeFiles/lab4rt.dir/main.c.obj	70fa39a7fe5d5337
+74	149	6940236999744468	lab4rt.exe	4f1a466af5bc89b6

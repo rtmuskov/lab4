@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "lab4_2/rd.h"
+#include <readline\readline.h>
 #define DELIM " \t"
 #define PREFICS 'J'
 int main() {
     char sogl[] = {"bBcCdDfFgGhHjJkKlLmMnNpPqQrRsStTvVwWxXyYzZ"};
-    char *str = rd("\n>");
+    char *str = readline("\n>");
     char *str2 = strdup(str);
     char *out = calloc(strlen(str2) + 1, sizeof(char));
     char *lema = strtok(str2, DELIM);

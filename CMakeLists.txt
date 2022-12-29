@@ -4,4 +4,4 @@ project(lab4rt C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(lab4rt
-        main.c rd.c rd.h)
+        lab4_2/main.c lab4_2/rd.c lab4_2/rd.h)

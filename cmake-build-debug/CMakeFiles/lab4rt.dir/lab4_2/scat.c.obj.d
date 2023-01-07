@@ -1,6 +1,6 @@
 CMakeFiles/lab4rt.dir/lab4_2/scat.c.obj: \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\scat.c \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\scat.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\scat.c \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\scat.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
@@ -17,5 +17,5 @@ CMakeFiles/lab4rt.dir/lab4_2/scat.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/malloc.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/mm_malloc.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/errno.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\slen.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\sdup.h
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\slen.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\sdup.h

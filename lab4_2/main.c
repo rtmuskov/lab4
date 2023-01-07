@@ -6,7 +6,7 @@
 #include "sdup.h"
 #include "scat.h"
 #include "stok.h"
-#define DELIM ' '
+#define DELIMT "\t "
 #define PREFICS 'J'
 int main() {
     char *sv;
@@ -14,7 +14,7 @@ int main() {
     char *str = rd("\n>");
     char *str2 = sdup(str);
     char *out = calloc(slen(str2) + 1, sizeof(char));
-    char *lema = stok(str2, DELIM);
+    char *lema = stok(str2, DELIMT);
     char *d_lema;
     int col_dlema;
     int flag = 0;
@@ -39,7 +39,7 @@ int main() {
         } else {
             out = scat(out, lema);
         }
-        lema = stok(NULL, DELIM);
+        lema = stok(NULL,DELIMT);
         if (lema != NULL) {
             out = scat(out, " ");
         }
@@ -63,5 +63,5 @@ int main() {
         free(d_lema);
     }
     clock_t end = clock();
-    printf("First program worked: %lfs\n", (double)(end - start) / CLOCKS_PER_SEC);
+    printf("Second program worked: %lfs\n", (double)(end - start) / CLOCKS_PER_SEC);
 }

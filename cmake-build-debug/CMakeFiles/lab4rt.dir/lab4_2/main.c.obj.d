@@ -1,5 +1,5 @@
 CMakeFiles/lab4rt.dir/lab4_2/main.c.obj: \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\main.c \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\main.c \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdio.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
@@ -26,8 +26,8 @@ CMakeFiles/lab4rt.dir/lab4_2/main.c.obj: \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sys/timeb.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/pthread_time.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\rd.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\slen.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\sdup.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\scat.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\stok.h
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\rd.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\slen.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\sdup.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\scat.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\stok.h

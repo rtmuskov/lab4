@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab4rt">
-				<Option output="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/lab4rt.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug"/>
+				<Option output="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/lab4rt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -30,15 +30,15 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4rt"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4rt"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lab4rt/fast">
-				<Option output="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/lab4rt.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug"/>
+				<Option output="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/lab4rt.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -49,67 +49,67 @@
 					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.1/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4rt/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab4rt/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4rt2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/rtmus/CLionProjects/lab4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/main.c">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/main.c">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/rd.c">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/rd.c">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/rd.h">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/rd.h">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/scat.c">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/scat.c">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/scat.h">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/scat.h">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/sdup.c">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/sdup.c">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/sdup.h">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/sdup.h">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/slen.c">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/slen.c">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/slen.h">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/slen.h">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/stok.c">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/stok.c">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/lab4_2/stok.h">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/lab4_2/stok.h">
 			<Option target="lab4rt"/>
 		</Unit>
-		<Unit filename="C:/Users/rtmus/CLionProjects/lab4rt2/CMakeLists.txt">
+		<Unit filename="C:/Users/rtmus/CLionProjects/lab4/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

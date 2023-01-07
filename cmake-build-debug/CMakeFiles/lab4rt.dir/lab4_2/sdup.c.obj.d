@@ -1,7 +1,7 @@
 CMakeFiles/lab4rt.dir/lab4_2/sdup.c.obj: \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\sdup.c \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\sdup.h \
- C:\Users\rtmus\CLionProjects\lab4rt2\lab4_2\slen.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\sdup.c \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\sdup.h \
+ C:\Users\rtmus\CLionProjects\lab4\lab4_2\slen.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/stdlib.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/corecrt.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/x86_64-w64-mingw32/include/_mingw.h \
